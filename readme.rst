@@ -15,3 +15,8 @@ Este é um sistema desenvolvido em Python com o framework Flask para gerar arqui
 ## Instalação
 -------------
 ...
+
+
+## Contato
+-------------
+- Você pode entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/dinhopereira/).
