@@ -1,9 +1,13 @@
 # Sistema e-CredAc
-===============================
+==================
+
+# MAIS DE 1BI DEFERIDOS
+=======================
 
 ## Descrição
 ------------
-Este projeto visa desenvolver um sistema em Python utilizando o framework Flask para geração de arquivos digitais conforme as especificações do E-Credac estabelecido pela Secretaria da Fazenda do Estado de São Paulo (Sefaz/SP). A ideia é fornecer uma solução mais robusta e completa em comparação com uma versão anterior desenvolvida em PHP.
+Sistema em Python para geração de arquivos digitais conforme as especificações do E-Credac estabelecido pela Secretaria da Fazenda do Estado de São Paulo (Sefaz/SP). 
+Neste projeto trago uma solução mais robusta e completa em comparação com uma versão anterior desenvolvida em PHP.
 
 ## Sobre o Projeto
 ------------------
