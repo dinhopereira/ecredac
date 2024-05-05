@@ -1,7 +1,7 @@
 # Sistema e-CredAc
 ==================
 
-# MAIS DE 1BI DEFERIDOS
+# MAIS DE 1BI DEFERIDO
 =======================
 
 ## Descrição
