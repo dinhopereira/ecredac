@@ -1,9 +1,6 @@
 # Sistema e-CredAc
 ==================
 
-# MAIS DE 1BI DEFERIDO
-=======================
-
 ## Descrição
 ------------
 Sistema em Python para geração de arquivos digitais conforme as especificações do E-Credac estabelecido pela Secretaria da Fazenda do Estado de São Paulo (Sefaz/SP). 
